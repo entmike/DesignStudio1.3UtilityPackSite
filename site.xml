@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/DesignStudioUtilityPackSCN_1.0.0.201409251256.jar" id="DesignStudioUtilityPackSCN" version="1.0.0.201409251256">
+      <category name="com.sap.ip.bi.zen.sdk"/>
+   </feature>
+   <category-def name="com.sap.ip.bi.zen.sdk" label="New Category 1"/>
+</site>
